@@ -1,0 +1,44 @@
+.body{
+background-color:white;
+}
+
+.my_bottom_margin{
+    margin-bottom:10px;
+}
+
+
+.asd {
+   display: flex;
+   flex-direction: column;
+}
+.card{
+   align-self: normal;
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   margin: 10px 20px;
+
+}
+.card .title{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 2.5rem;
+}
+.p.text{
+   font-size: 1.1rem;
+   letter-spacing: 0.1rem;
+   padding: 110px
+
+}
+.card .qwe{
+display: block;
+width: 100%;
+padding: 1rem;
+font-size: 0.9rem;
+text-align: center;
+color: #f8002c;
+background-color: #070706;
+border: none;
+border-radius: 0.2rem;
+transition: 0.25;
+}
